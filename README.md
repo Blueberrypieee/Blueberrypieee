@@ -69,9 +69,7 @@ Most of my projects are built with Python, Flask, JavaScript, and a lot of curio
 
 ## Now Playing
 
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fnfuvtx3gbvcviwhlzwcowciwm&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=00ffff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fnfuvtx3gbvcviwhlzwcowciwm&redirect=true)
 
 ---
 
