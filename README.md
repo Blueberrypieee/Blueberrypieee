@@ -51,14 +51,6 @@ Most of my projects are built with Python, Flask, JavaScript, and a lot of curio
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blueberrypieee&theme=onedark&no-frame=true&no-bg=true" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
