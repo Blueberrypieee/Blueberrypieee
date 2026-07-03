@@ -82,7 +82,7 @@ Most of my projects are built with Python, Flask, JavaScript, and a lot of curio
     <img src="https://skillicons.dev/icons?i=github" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/rzkyysani11">
+  <a href="https://www.instagram.com/rzkyyysan11?igsh=M28zZWJ1djZicGtv">
     <img src="https://skillicons.dev/icons?i=instagram" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
