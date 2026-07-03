@@ -68,7 +68,7 @@ Most of my projects are built with Python, Flask, JavaScript, and a lot of curio
 ## Discord
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1248958618993426503?theme=dark&bg=0d1117&borderRadius=12px&animated=true&showDisplayName=true&idleMessage=Building%20something..." />
+  <img src="https://lanyard.cnrad.dev/api/1248958618993426503?theme=dark&bg=0d1117&borderRadius=12px&animated=true&showDisplayName=true&idleMessage=Learning%20MachineLearning..." />
 </p>
 
 ---
